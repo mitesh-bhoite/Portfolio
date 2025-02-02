@@ -5,17 +5,15 @@ This is my projects link you can vist it :-
 
 cilck here ==> https://codecrusheryash.netlify.app/
 
-# Portfolio Website
 
 ## Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [About me]
+- [Projects]
+- [Services]
+- [Work]
+- [Project Structure]
+- [Contact]
+- [License]
 
 ## About the Project
 This is an advanced **Portfolio Website** that showcases personal work, skills, and projects. It includes a **blog section and CMS-like functionalities** for easy content management. The project is designed to be **responsive, modern, and interactive**.
