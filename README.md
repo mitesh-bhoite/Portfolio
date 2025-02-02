@@ -34,7 +34,7 @@ Its a **personal portfolio website** that showcases projects, skills, and achiev
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Styling:** Tailwind CSS / Bootstrap
+- **Styling:** Tailwind CSS 
 - **Deployment:** Netlify
 
 ## Installation
