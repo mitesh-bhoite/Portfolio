@@ -74,4 +74,4 @@ Contributions are welcome! If you'd like to improve the project, please **fork t
 
 This project is licensed under the **MIT License**.
 
-
+Made with ❤️ by Mitesh Bhoite
